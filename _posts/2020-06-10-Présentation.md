@@ -1,13 +1,14 @@
 ---
 title: Les participants 
 excerpt: >-
-  Voici les vidéos
+  Las acteurs du hackathon se présentent.
 date: '2020-06-10'
-thumb_image: images/challenge/challenge.jpg
-image: images/challenge/challenge.jpg
+thumb_image: images/Participants.png
+image: images/Participants.png
 layout: post
 ---
 
 
-# Faites connaissance avec les participants
-<iframe width="1280" height="720" src="https://groupeeurotunnel.sharepoint.com/sites/HackTheLink-OrgaHackathon/Shared%20Documents/OrgaHackathon/Media/MONTAGE_participants.mp4?App=OneDriveWebVideo" allowfullscreen style="border:none;"></iframe>
+# Welcome !
+
+<iframe width="1280" height="720" src="https://web.microsoftstream.com/embed/video/38e588a6-d7cb-4581-9509-f83622ac5132?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>
