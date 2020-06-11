@@ -3,4 +3,8 @@ title: Thank You ! Merci !
 layout: simple
 ---
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdfLQAYTNbPWtSp6ozRm8rE9Cci-SW9ufGpMqKEujn9NL0Gjw/viewform?embedded=true" width="640" height="465" frameborder="0" marginheight="0" marginwidth="0">Chargement…</iframe>
+##Thank you for scanning !
+We've taken into account your interest in contactless solutions, which will be available soon.
+
+##Merci de ce scan ! 
+Nous prenons en compte votre intérêt pour les solutions sans contact, pour une mise en oeuvre prochaine.
