@@ -55,17 +55,17 @@ L'objectif, dans ce cas, c'est de pouvoir développer le site au plus simple :
 
 ### Deuxième cas : le péage du Tunnel (ou la vente de burgers)
 
-Le propriétaire de la borne est volontaire et compétent techniquement : il peut mettre un petit logiciel à côté de son propre logiciel. Ce petit logiciel &copy; Touch Avoider communique avec le serveur web
-&copy; Touch Avoider avec lequel le téléphone de notre brave utilisateur interagit.
-Là, c'est formidable, parce que le petit logiciel &copy; Touch Avoider simule les actions sur la borne, à la place de l'utilisateur !
+Le propriétaire de la borne est volontaire et compétent techniquement : il peut mettre un petit logiciel à côté de son propre logiciel. Ce petit logiciel &copy;Touch Avoider communique avec le serveur web
+&copy;Touch Avoider avec lequel le téléphone de notre brave utilisateur interagit.
+Là, c'est formidable, parce que le petit logiciel &copy;Touch Avoider simule les actions sur la borne, à la place de l'utilisateur !
 
-## Une opportunité pour les systèmes ?
+## One more thing
 
 Nous retrouvons donc les interactions déportées sur le mobile. En d'autres termes, si des questions sont posées à l'utilisateur, ce dernier les retrouve sur son mobile. 
 
-Techniquement, les interactions ont été soit déclarées dans le backoffice de &copy; Touch Avoider ou récupérées via notre sniffer d'écran. Nous avons donc, l'ensemble des questions à poser dans le backoffice !
+Techniquement, les interactions ont été soit déclarées dans le backoffice de &copy;Touch Avoider ou récupérées via notre sniffer d'écran. Nous avons donc, l'ensemble des questions à poser dans le backoffice !
 
-C'est l'opportunité d'apporter de la valeur à nos clients en proposant leur langue de prédilection !
+C'est l'opportunité **d'apporter de la valeur à nos clients en proposant leur langue de prédilection** !
 > Vous n'avez pas l'espagnol, nous le mettrons à disposition, sans modification dans vos systèmes !
 
 
