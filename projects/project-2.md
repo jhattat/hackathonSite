@@ -59,6 +59,17 @@ Le propriétaire de la borne est volontaire et compétent techniquement : il peu
 &copy; Touch Avoider avec lequel le téléphone de notre brave utilisateur interagit.
 Là, c'est formidable, parce que le petit logiciel &copy; Touch Avoider simule les actions sur la borne, à la place de l'utilisateur !
 
+## Une opportunité pour les systèmes ?
+
+Nous retrouvons donc les interactions déportées sur le mobile. En d'autres termes, si des questions sont posées à l'utilisateur, ce dernier les retrouve sur son mobile. 
+
+Techniquement, les interactions ont été soit déclarées dans le backoffice de &copy; Touch Avoider ou récupérées via notre sniffer d'écran. Nous avons donc, l'ensemble des questions à poser dans le backoffice !
+
+C'est l'opportunité d'apporter de la valeur à nos clients en proposant leur langue de prédilection !
+> Vous n'avez pas l'espagnol, nous le mettrons à disposition, sans modification dans vos systèmes !
+
+
+
 ## Synthèse : c'est simple
 
 Si vous n'avez pas tout compris, rassurez-vous. L'équipe planche ferme sur le sujet. La preuve ? Un diagramme qui devrait **tout** clarifier.
