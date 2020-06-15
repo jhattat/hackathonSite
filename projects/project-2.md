@@ -51,13 +51,13 @@ Il n'y a pratiquement pas de possibilité pour la machine de communiquer via l'I
 L'objectif, dans ce cas, c'est de pouvoir développer le site au plus simple :
 - Pas de fioritures web. Une courte série de formulaires, avec une interaction par formulaire.
 - La série de formulaires est conçue en observant la borne.
-- En fin d'interaction, le serveur web (c) Touch Avoider appelle la borne, directement ou via le système d'information du propriétaire de la borne.
+- En fin d'interaction, le serveur web &copy; Touch Avoider appelle la borne, directement ou via le système d'information du propriétaire de la borne.
 
 ### Deuxième cas : le péage du Tunnel (ou la vente de burgers)
 
-Le propriétaire de la borne est volontaire et compétent techniquement : il peut mettre un petit logiciel à côté de son propre logiciel. Ce petit logiciel (c) Touch Avoider communique avec le serveur web
-(c) Touch Avoider avec lequel le téléphone de notre brave utilisateur interagit.
-Là, c'est formidable, parce que le petit logiciel (c) Touch Avoider simule les actions sur la borne, à la place de l'utilisateur !
+Le propriétaire de la borne est volontaire et compétent techniquement : il peut mettre un petit logiciel à côté de son propre logiciel. Ce petit logiciel &copy; Touch Avoider communique avec le serveur web
+&copy; Touch Avoider avec lequel le téléphone de notre brave utilisateur interagit.
+Là, c'est formidable, parce que le petit logiciel &copy; Touch Avoider simule les actions sur la borne, à la place de l'utilisateur !
 
 ## Synthèse : c'est simple
 
