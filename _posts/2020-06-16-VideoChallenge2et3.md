@@ -18,6 +18,6 @@ Challenge UX de CKL
 
 <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/63b4b54e-37a2-4ee6-9405-ec6712ac1b64?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>
 
-Challenge M6 Boutique au démarrage de la vidéo. A al base nous étions limité à 3 minutes ;)
+Challenge M6 Boutique au démarrage de la vidéo(A la base nous étions limité à 3 minutes).
 Challenge UX Touch Avoider à 23'58
 Challenge UX ROOM à 44 minutes
