@@ -1,5 +1,5 @@
 ---
-title: Videos Challenge 2 et 3
+title: Videos Challenges 2 et 3
 excerpt: >-
   Des larmes de rire
 date: '2020-06-16'
