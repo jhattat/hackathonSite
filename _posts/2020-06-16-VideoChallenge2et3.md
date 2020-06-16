@@ -3,8 +3,8 @@ title: Videos Challenge 2 et 3
 excerpt: >-
   Des larmes de rire
 date: '2020-06-16'
-thumb_image: images/challenge/M6Video.jpg
-image: images/challenge/M6Video.jpg
+thumb_image: images/challenge/M6Video.png
+image: images/challenge/M6Video.png
 layout: post
 ---
 
