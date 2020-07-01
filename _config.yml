@@ -54,7 +54,7 @@ footer:
       new_window: true
 # Team names, titles and social links
 people:
-- name: Nicola Booneart
+- name: Nicolas Boonaert
   pic: nico.jpg
   position: Orga, Support & Arhitect
   social:
